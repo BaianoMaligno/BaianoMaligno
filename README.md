@@ -40,6 +40,10 @@ Um projeto pessoal para consultar, organizar e analisar informações de diferen
 
 Estruturei o MVP separando a origem dos dados, a triagem e a saída operacional. A solução foi aplicada no Google Cloud, com uma base de dados funcional no Google Drive. O Gemini foi usado para triar e organizar o conteúdo; o GPT consumiu o contexto selecionado para gerar as respostas. O trabalho incluiu padronização de respostas, apoio à documentação e à triagem técnica, além de limites de consumo. Esse projeto também aproxima minha experiência em infraestrutura e operação do caminho que estou construindo em engenharia de IA.
 
+### [Fiscal de Compras e Preços](https://github.com/soteropolitano/fiscal-de-compras-e-precos)
+
+Um MVP feito com Gemini, Google Sheets e Google Drive para organizar listas de compras, ler preços e conferir cupons fiscais. O assistente compara o valor anunciado, o preço da prateleira e o valor cobrado, registra as divergências e mantém um histórico por produto, loja e data. Também defini regras para promoções condicionais e para impedir que uma leitura incompleta seja apresentada como certeza.
+
 ## Formação e certificações
 
 - Pós-graduação em Arquitetura Cloud-Native e Engenharia de Plataformas - em andamento;
