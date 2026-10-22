@@ -4,7 +4,7 @@ Sou profissional de infraestrutura, com aproximadamente nove anos de experiênci
 
 Hoje direciono meus estudos e projetos para **CloudOps, SRE, automação, observabilidade e engenharia de plataformas**. Gosto de entender como as coisas funcionam, investigar problemas com base em evidências e documentar o caminho até a solução.
 
-Moro em Salvador, Bahia.
+Eu sou soteropolitano! Eu sou baiano! Eu sou de salvador!
 
 ## Minha experiência
 
