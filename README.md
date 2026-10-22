@@ -44,6 +44,10 @@ Estruturei o MVP separando a origem dos dados, a triagem e a saída operacional.
 
 Um MVP feito com Gemini, Google Sheets e Google Drive para organizar listas de compras, ler preços e conferir cupons fiscais. O assistente compara o valor anunciado, o preço da prateleira e o valor cobrado, registra as divergências e mantém um histórico por produto, loja e data. Também defini regras para promoções condicionais e para impedir que uma leitura incompleta seja apresentada como certeza.
 
+### [Catálogo de Entretenimento com LLM](https://github.com/soteropolitano/catalogo-de-entretenimento-com-llm)
+
+Uma base no Google Sheets que transforma meu histórico de filmes, séries, animes, documentários e jogos em contexto para uma LLM. O assistente consulta o que já foi concluído, pausado ou rejeitado antes de recomendar, preserva títulos alternativos e separa informações confirmadas do que ainda precisa de revisão. O projeto também usa fontes atuais para não tratar disponibilidade e datas como informações permanentes.
+
 ## Formação e certificações
 
 - Pós-graduação em Arquitetura Cloud-Native e Engenharia de Plataformas - em andamento;
