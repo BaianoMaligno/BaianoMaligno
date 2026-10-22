@@ -4,7 +4,7 @@ Sou profissional de infraestrutura, com aproximadamente nove anos de experiênci
 
 Hoje direciono meus estudos e projetos para **CloudOps, SRE, automação, observabilidade e engenharia de plataformas**. Gosto de entender como as coisas funcionam, investigar problemas com base em evidências e documentar o caminho até a solução.
 
-### [Eu sou soteropolitano! Eu sou baiano! Eu sou de salvador!](https://youtu.be/L-CcZzKhkiE?t=51)
+### [Eu sou soteropolitano! Eu sou baiano! Eu sou de salvador!]([https://youtu.be/L-CcZzKhkiE?t=51](https://youtu.be/8znhhvLA47Q?t=40)
 
 ## Minha experiência
 
