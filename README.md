@@ -9,7 +9,7 @@ Hoje direciono meus estudos e projetos para **CloudOps, SRE, automação, observ
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Inglês B1+](https://img.shields.io/badge/Ingl%C3%AAs-B1%2B-000000?style=for-the-badge&logoColor=white)
 
-Moro em Salvador, Bahia.
+### [Eu sou soteropolitano! Eu sou baiano! Eu sou de salvador!](https://youtu.be/8znhhvLA47Q?t=40)
 
 ## Minha experiência
 
