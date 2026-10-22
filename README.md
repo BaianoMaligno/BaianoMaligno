@@ -87,4 +87,4 @@ Continuo aprofundando meus conhecimentos em Kubernetes, Terraform, CloudOps e ob
 
 ## Contato profissional
 
-[![LinkedIn](https://img.shields.io/badge/David_Santos-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsanttos/)
+Você pode conhecer mais da minha trajetória profissional no [LinkedIn](https://www.linkedin.com/in/davidsanttos/).
