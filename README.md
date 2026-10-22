@@ -47,7 +47,7 @@ Estruturei o MVP separando a origem dos dados, o processamento com o modelo e a 
 - Astronomer - Apache Airflow Fundamentals;
 - Windows Server 2012 R2.
 
-Continuo aprofundando meus conhecimentos em Kubernetes, Terraform, CloudOps e observabilidade cloud-native. Também estudo inglês e atualmente estou no nível intermediário.
+Continuo aprofundando meus conhecimentos em Kubernetes, Terraform, CloudOps e observabilidade cloud-native. Também estudo inglês e atualmente estou no nível B1+.
 
 ## Contato profissional
 
