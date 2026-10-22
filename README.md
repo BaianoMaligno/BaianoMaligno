@@ -36,7 +36,7 @@ Bot para ajudar nos estudos de inglês. Ele corrige textos, transcreve áudios c
 
 Um projeto pessoal para consultar, organizar e analisar informações de diferentes fontes. A ideia nasceu de problemas que conheço na operação: respostas espalhadas, documentação difícil de localizar, triagem manual e tempo gasto reunindo contexto antes de agir.
 
-Estruturei o MVP separando a origem dos dados, o processamento com o modelo e a saída operacional. O trabalho incluiu padronização de respostas, apoio à documentação e à triagem técnica, além de limites de consumo para manter o uso previsível e de baixo custo. Esse projeto também aproxima minha experiência em infraestrutura e operação do caminho que estou construindo em engenharia de IA.
+Estruturei o MVP separando a origem dos dados, o processamento com o modelo e a saída operacional. A solução foi aplicada no Google Cloud, com uma base de dados funcional no Google Drive. O trabalho incluiu padronização de respostas, apoio à documentação e à triagem técnica, além de limites de consumo. Esse projeto também aproxima minha experiência em infraestrutura e operação do caminho que estou construindo em engenharia de IA.
 
 ## Formação e certificações
 
