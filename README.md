@@ -46,7 +46,7 @@ Um MVP feito com Gemini, Google Sheets e Google Drive para organizar listas de c
 
 ### [Catálogo de Entretenimento com LLM](https://github.com/soteropolitano/catalogo-de-entretenimento-com-llm)
 
-Uma base no Google Sheets que transforma meu histórico de filmes, séries, animes, documentários e jogos em contexto para uma LLM. O assistente consulta o que já foi concluído, pausado ou rejeitado antes de recomendar, preserva títulos alternativos e separa informações confirmadas do que ainda precisa de revisão. O projeto também usa fontes atuais para não tratar disponibilidade e datas como informações permanentes.
+Uma base no Google Sheets que transforma meu histórico de filmes, séries, animes, documentários e jogos em contexto para uma LLM. O assistente consulta o que já foi concluído, pausado ou rejeitado antes de recomendar e cruza a energia mental exigida por cada conteúdo com a energia que tenho naquele momento. Também preserva títulos alternativos, separa informações confirmadas do que ainda precisa de revisão e usa fontes atuais para não tratar disponibilidade e datas como informações permanentes.
 
 ## Formação e certificações
 
