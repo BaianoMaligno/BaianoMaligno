@@ -4,7 +4,12 @@ Sou profissional de infraestrutura, com aproximadamente nove anos de experiênci
 
 Hoje direciono meus estudos e projetos para **CloudOps, SRE, automação, observabilidade e engenharia de plataformas**. Gosto de entender como as coisas funcionam, investigar problemas com base em evidências e documentar o caminho até a solução.
 
-### [Eu sou soteropolitano! Eu sou baiano! Eu sou de salvador!](https://youtu.be/8znhhvLA47Q?t=40)
+[![SEGUIR](https://custom-icon-badges.demolab.com/github/followers/soteropolitano?color=000000&label=SEGUIR&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/soteropolitano?tab=followers)
+[![ESTRELAS](https://custom-icon-badges.demolab.com/github/stars/soteropolitano?color=000000&label=ESTRELAS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/soteropolitano?tab=repositories&sort=stargazers)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Inglês B1+](https://img.shields.io/badge/Ingl%C3%AAs-B1%2B-000000?style=for-the-badge&logoColor=white)
+
+Moro em Salvador, Bahia.
 
 ## Minha experiência
 
@@ -23,6 +28,25 @@ Minha base técnica inclui:
 - LLMs aplicados à automação, triagem e consulta de conhecimento;
 - Engenharia de prompts para respostas orientadas por contexto e referências;
 - ServiceNow, JIRA e GLPI.
+
+### Tecnologias e ferramentas
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-000000?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-000000?style=for-the-badge&logo=microsoft365&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-000000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-000000?style=for-the-badge&logo=dynatrace&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Projetos que estou desenvolvendo
 
@@ -61,4 +85,4 @@ Continuo aprofundando meus conhecimentos em Kubernetes, Terraform, CloudOps e ob
 
 ## Contato profissional
 
-Você pode conhecer mais da minha trajetória no [LinkedIn](https://www.linkedin.com/in/davidsanttos/).
+[![LinkedIn](https://img.shields.io/badge/David_Santos-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsanttos/)
