@@ -24,7 +24,7 @@ Minha base técnica inclui:
 - VMware, Hyper-V, Docker e Kubernetes;
 - Zabbix, Grafana, Dynatrace e análise de logs;
 - PowerShell, Bash, Python e SQL;
-- Terraform, Git e conceitos de CI/CD;
+- Terraform, Git e CI/CD;
 - LLMs aplicados à automação, triagem e consulta de conhecimento;
 - Engenharia de prompts para respostas orientadas por contexto e referências;
 - ServiceNow, JIRA e GLPI.
