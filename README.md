@@ -11,6 +11,8 @@ Hoje direciono meus estudos e projetos para **CloudOps, SRE, automação, observ
 
 ### [Eu sou soteropolitano! Eu sou baiano! Eu sou de salvador!](https://youtu.be/8znhhvLA47Q?t=40)
 
+Sou soteropolitano, mas foi em São Paulo que construí toda a minha carreira. Salvador explica de onde venho; São Paulo, onde me formei profissionalmente. Sobre onde estou agora, deixo a dúvida.
+
 ## Minha experiência
 
 Já trabalhei com administração e sustentação de infraestrutura híbrida, servidores Windows e Linux, Azure, VMware, Hyper-V e serviços Microsoft. Também atuei em operações 24x7 com middleware e aplicações críticas, incluindo WebLogic, WebSphere, JBoss, WildFly, Apache, Tomcat e IIS.
