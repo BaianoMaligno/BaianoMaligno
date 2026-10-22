@@ -32,7 +32,7 @@ Uma adaptação para usar um Samsung Galaxy Tab como segunda tela no Linux, com 
 
 Bot para ajudar nos estudos de inglês. Ele corrige textos, transcreve áudios curtos e explica os erros em português. A aplicação roda em Python no Google Cloud Run e usa Telegram, Gemini API, Secret Manager e Cloud Storage, com controle de acesso e de custos.
 
-### MVP de automação com LLM
+### [MVP de automação com LLM](https://github.com/soteropolitano/mvp-automacao-llm)
 
 Um projeto pessoal para consultar, organizar e analisar informações de diferentes fontes. A ideia nasceu de problemas que conheço na operação: respostas espalhadas, documentação difícil de localizar, triagem manual e tempo gasto reunindo contexto antes de agir.
 
