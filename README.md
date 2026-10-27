@@ -1,4 +1,12 @@
-# Olá, sou David Santos (Nos jogos, conhecido por "BaianoMaligno").
+<h1>
+Olá, sou David Santos.<br>
+<sub><sub>Na internet e nos jogos, sou conhecido como "BaianoMaligno".</sub></sub>
+</h1>
+
+<br>
+
+
+
 
 Sou profissional de infraestrutura, com aproximadamente nove anos de experiência em suporte, sustentação e operação de ambientes corporativos. Minha trajetória passou por servidores Windows e Linux, middleware, virtualização, redes, Microsoft 365, monitoramento e atendimento de ambientes críticos.
 
