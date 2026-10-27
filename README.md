@@ -1,6 +1,6 @@
 <h1>
 Olá, sou David Santos.<br>
-<sub><sub>Na internet e nos jogos, sou conhecido como "BaianoMaligno".</sub></sub>
+<sub><sub>Nos jogos e nas redes sociais, sou conhecido como "BaianoMaligno".</sub></sub>
 </h1>
 
 <br>
