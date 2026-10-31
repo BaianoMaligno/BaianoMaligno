@@ -1,0 +1,5 @@
+# Ambientes e temporários
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
