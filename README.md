@@ -1,8 +1,8 @@
 # Olá, sou David Santos
 
-Sou profissional de infraestrutura, com aproximadamente nove anos de experiência em suporte, sustentação e operação de ambientes corporativos. Minha trajetória passou por servidores Windows e Linux, middleware, virtualização, redes, Microsoft 365, monitoramento e atendimento de ambientes críticos.
+Trabalho com infraestrutura e tenho aproximadamente nove anos de experiência em suporte, sustentação e operação. Já passei por servidores Windows e Linux, middleware, virtualização, redes, Microsoft 365, monitoramento e ambientes críticos.
 
-Hoje direciono meus estudos e projetos para **CloudOps, SRE, automação, observabilidade e engenharia de plataformas**. Gosto de entender como as coisas funcionam, investigar problemas com base em evidências e documentar o caminho até a solução.
+Hoje estou focando meus estudos e projetos em **CloudOps, SRE, automação, observabilidade e engenharia de plataformas**. Gosto de entender como funciona, investigar o problema e deixar o caminho da solução documentado.
 
 [![SEGUIR](https://custom-icon-badges.demolab.com/github/followers/soteropolitano?color=000000&label=SEGUIR&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/soteropolitano?tab=followers)
 [![ESTRELAS](https://custom-icon-badges.demolab.com/github/stars/soteropolitano?color=000000&label=ESTRELAS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/soteropolitano?tab=repositories&sort=stargazers)
@@ -11,13 +11,13 @@ Hoje direciono meus estudos e projetos para **CloudOps, SRE, automação, observ
 
 ### [Eu sou soteropolitano! Eu sou baiano! Eu sou de salvador!](https://youtu.be/8znhhvLA47Q?t=40)
 
-Sou soteropolitano, mas foi em São Paulo que construí toda a minha carreira. Salvador explica de onde venho; São Paulo, onde me formei profissionalmente. Sobre onde estou agora, deixo a dúvida.
+Sou soteropolitano e morei dez anos em São Paulo, onde construí minha carreira. Sobre onde estou agora, vou deixar a dúvida.
 
 ## Minha experiência
 
-Já trabalhei com administração e sustentação de infraestrutura híbrida, servidores Windows e Linux, Azure, VMware, Hyper-V e serviços Microsoft. Também atuei em operações 24x7 com middleware e aplicações críticas, incluindo WebLogic, WebSphere, JBoss, WildFly, Apache, Tomcat e IIS.
+Minha experiência passa por infraestrutura híbrida, Windows e Linux, Azure, VMware, Hyper-V e serviços Microsoft. Também trabalhei em operação 24x7 com middleware e aplicações críticas: WebLogic, WebSphere, JBoss, WildFly, Apache, Tomcat e IIS.
 
-Parte importante do meu trabalho envolve incidentes, mudanças em produção, análise de logs, troubleshooting, documentação operacional e acompanhamento da disponibilidade dos serviços. Em observabilidade, tenho experiência com Zabbix, Grafana e Dynatrace.
+No dia a dia, trabalhei com incidentes, mudanças em produção, análise de logs, troubleshooting, documentação e disponibilidade. Em observabilidade, tenho experiência com Zabbix, Grafana e Dynatrace.
 
 Minha base técnica inclui:
 
@@ -54,7 +54,7 @@ Minha base técnica inclui:
 
 ### [Galaxy Tab Screen](https://github.com/soteropolitano/galaxy-tab-screen-linux)
 
-Uma adaptação para usar um Samsung Galaxy Tab como segunda tela no Linux, com S Pen, touch e áudio. O projeto já funciona pelo cabo, sem depuração USB, e pelo Wi-Fi. Estou documentando os testes, os erros e as correções enquanto aprendo durante o desenvolvimento.
+Quero usar meu Samsung Galaxy Tab como segunda tela no Linux, com S Pen, touch e áudio. Já tive resultados pelo cabo, sem depuração USB, e pelo Wi-Fi. Deixei os testes, erros, correções e limites no projeto.
 
 ### [Telegram English Bot](https://github.com/soteropolitano/telegram-english-bot)
 
@@ -62,17 +62,17 @@ Bot para ajudar nos estudos de inglês. Ele corrige textos, transcreve áudios c
 
 ### [MVP de automação com LLM](https://github.com/soteropolitano/mvp-automacao-llm)
 
-Um projeto pessoal para consultar, organizar e analisar informações de diferentes fontes. A ideia nasceu de problemas que conheço na operação: respostas espalhadas, documentação difícil de localizar, triagem manual e tempo gasto reunindo contexto antes de agir.
+Um MVP para consultar e organizar informações espalhadas. A ideia veio da operação: documentação difícil de encontrar e tempo gasto juntando contexto antes de resolver o problema.
 
-Estruturei o MVP separando a origem dos dados, a triagem e a saída operacional. A solução foi aplicada no Google Cloud, com uma base de dados funcional no Google Drive. O Gemini foi usado para triar e organizar o conteúdo; o GPT consumiu o contexto selecionado para gerar as respostas. O trabalho incluiu padronização de respostas, apoio à documentação e à triagem técnica, além de limites de consumo. Esse projeto também aproxima minha experiência em infraestrutura e operação do caminho que estou construindo em engenharia de IA.
+O MVP foi aplicado no Google Cloud, com a base no Google Drive. O Gemini organizava o material e o GPT gerava a resposta a partir do contexto selecionado. Trabalhei com critérios de resposta, documentação, triagem e controle de consumo. É uma forma de levar minha experiência em infraestrutura e operação para os estudos em engenharia de IA.
 
 ### [Fiscal de Compras e Preços](https://github.com/soteropolitano/fiscal-de-compras-e-precos)
 
-Um MVP feito com Gemini, Google Sheets e Google Drive para organizar listas de compras, ler preços e conferir cupons fiscais. O assistente compara o valor anunciado, o preço da prateleira e o valor cobrado, registra as divergências e mantém um histórico por produto, loja e data. Também defini regras para promoções condicionais e para impedir que uma leitura incompleta seja apresentada como certeza.
+Fiz com Gemini, Google Sheets e Google Drive para organizar listas e conferir preços e cupons. Compara anúncio, prateleira e valor cobrado, mantendo histórico por produto, loja e data. Se a leitura estiver em dúvida ou a promoção tiver condições, isso precisa ficar registrado.
 
 ### [Catálogo de Entretenimento com LLM](https://github.com/soteropolitano/catalogo-de-entretenimento-com-llm)
 
-Uma base no Google Sheets que transforma meu histórico de filmes, séries, animes, documentários e jogos em contexto para uma LLM. O assistente consulta o que já foi concluído, pausado ou rejeitado antes de recomendar e cruza a energia mental exigida por cada conteúdo com a energia que tenho naquele momento. Também preserva títulos alternativos, separa informações confirmadas do que ainda precisa de revisão e usa fontes atuais para não tratar disponibilidade e datas como informações permanentes.
+Organizei meu histórico de filmes, séries, animes, documentários e jogos para a IA consultar antes de recomendar. Considera o que concluí, pausei ou rejeitei e minha energia no momento. Título incerto fica para revisão; disponibilidade e datas precisam de fonte atual.
 
 ## Formação e certificações
 
@@ -83,8 +83,8 @@ Uma base no Google Sheets que transforma meu histórico de filmes, séries, anim
 - Astronomer - Apache Airflow Fundamentals;
 - Windows Server 2012 R2.
 
-Continuo aprofundando meus conhecimentos em Kubernetes, Terraform, CloudOps e observabilidade cloud-native. Também estudo inglês e atualmente estou no nível B1+.
+Continuo estudando Kubernetes, Terraform, CloudOps e observabilidade cloud-native. Também estudo inglês; o nível registrado aqui é B1+.
 
 ## Contato profissional
 
-Você pode conhecer mais da minha trajetória profissional no [LinkedIn](https://www.linkedin.com/in/davidsanttos/).
+Mais sobre meu trabalho no [LinkedIn](https://www.linkedin.com/in/davidsanttos/).
