@@ -4,8 +4,8 @@ Trabalho com infraestrutura e tenho aproximadamente nove anos de experiência em
 
 Hoje estou focando meus estudos e projetos em **CloudOps, SRE, automação, observabilidade e engenharia de plataformas**. Gosto de entender como funciona, investigar o problema e deixar o caminho da solução documentado.
 
-[![SEGUIR](https://custom-icon-badges.demolab.com/github/followers/soteropolitano?color=000000&label=SEGUIR&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/soteropolitano?tab=followers)
-[![ESTRELAS](https://custom-icon-badges.demolab.com/github/stars/soteropolitano?color=000000&label=ESTRELAS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/soteropolitano?tab=repositories&sort=stargazers)
+[![SEGUIR](https://custom-icon-badges.demolab.com/github/followers/baianomaligno?color=000000&label=SEGUIR&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/baianomaligno?tab=followers)
+[![ESTRELAS](https://custom-icon-badges.demolab.com/github/stars/baianomaligno?color=000000&label=ESTRELAS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/baianomaligno?tab=repositories&sort=stargazers)
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Inglês B1+](https://img.shields.io/badge/Ingl%C3%AAs-B1%2B-000000?style=for-the-badge&logoColor=white)
 
